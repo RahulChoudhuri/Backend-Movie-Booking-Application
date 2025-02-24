@@ -28,7 +28,7 @@ The base URL for all endpoints is https://backend-movie-booking-app-production.u
 
 **Example:** To get a list of all available movies, use the following URL: "https://backend-movie-booking-app-production.up.railway.app/ticket/movies"
 
-![image]("postman.png")
+![image](postman.png)
 
 **Error Handling**
 The application includes error handling for:
