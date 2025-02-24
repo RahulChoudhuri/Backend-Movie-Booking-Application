@@ -24,7 +24,7 @@ The base URL for all endpoints is https://backend-movie-booking-app-production.u
 - **POST /movie:** Add a new movie
 - **GET /movie/{id}:** Retrieve movie details by ID
 - **DELETE /movie/{id}:** Delete a movie by ID
-- **PUT /movies/{id}:** Update movie details by ID
+- **PUT /update/{id}:** Update movie details by ID
 
 **Example:** To get a list of all available movies, use the following URL: "https://backend-movie-booking-app-production.up.railway.app/ticket/movies"
 
